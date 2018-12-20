@@ -20,9 +20,30 @@ python PlotPoints.py data4.txt
 This command was for data4.txt but change that for whatever data file you are using. This script will then pull up a graph with the original points as blue dots and the convex Hull as a red line.
 
 # Results
+Here are some images of the python script using the points my Java program created. Each title is based off the name of the text file used so check those out for more info.
 
 ## Data.txt
 
 ![Data set 1](https://github.com/Isaiaher/QuickHull/blob/master/Images/Data.png)
+
+
+## Data2.txt
+
+![Data set 2](https://github.com/Isaiaher/QuickHull/blob/master/Images/Data2.png)
+
+
+## Data3.txt
+
+![Data set 3](https://github.com/Isaiaher/QuickHull/blob/master/Images/Data3.png)
+
+
+## Data4.txt
+
+![Data set 4](https://github.com/Isaiaher/QuickHull/blob/master/Images/Data4.png)
+
+
+## Data5.txt
+
+![Data set 5](https://github.com/Isaiaher/QuickHull/blob/master/Images/Data5.png)
 
 
