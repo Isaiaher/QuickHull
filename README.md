@@ -13,9 +13,9 @@ QuickHull.java does have a main so run it and get the two files explained above.
 ## Step 3: Run the Python Script
 Run the python script by going to the directory in the command line and running 
 
-'''
+```
 python PlotPoints.py data4.txt
-'''
+```
 
 This command was for data4.txt but change that for whatever data file you are using. This script will then pull up a graph with the original points as blue dots and the convex Hull as a red line.
 
