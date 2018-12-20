@@ -23,6 +23,6 @@ This command was for data4.txt but change that for whatever data file you are us
 
 ## Data.txt
 
-<img src = "https://github.com/Isaiaher/QuickHull/master/Images/data.png" />
+<img src = "https://github.com/Isaiaher/QuickHull/master/Images/Data.png" />
 
 
