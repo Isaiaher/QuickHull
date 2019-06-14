@@ -1,5 +1,5 @@
 # QuickHull
-This is a program that finds the convex hull of the points from a file that you have. The file hsa to be formatted a certain way, I have several to referance. The java program has one spot you need to change the name of the file to the points you would like. The Java program will print out the points on the convex hull and then also output two files, result.txt and plotResults.txt. result.txt is just a file version of what is outputed with the parenthesis and commas and all, plotResults.txt is a stripped down version for the python script to read easier.
+This is a program that finds the convex hull of the points from a file that you have. The file has to be formatted a certain way, I have several to referance. The java program has one spot you need to change the name of the file to the points you would like. The Java program will print out the points on the convex hull and then also output two files, result.txt and plotResults.txt. result.txt is just a file version of what is outputed with the parenthesis and commas and all, plotResults.txt is a stripped down version for the python script to read easier.
 
 
 # Getting Started
